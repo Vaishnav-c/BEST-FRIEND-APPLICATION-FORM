@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://i1.faceprep.in/ProGrad/minion-background.png);
+    text-align: center;
+ 
+}
+section{
+    width: 500px;
+    background-color: white;
+    margin: auto;
+}
